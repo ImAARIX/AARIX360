@@ -1,0 +1,20 @@
+{
+  "name": "AARIX360",
+  "description": "AI timetable generator",
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImAARIX/AARIX360.git"
+  },
+  "keywords": [],
+  "author": "ImAARIX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImAARIX/AARIX360/issues"
+  },
+  "homepage": "https://github.com/ImAARIX/AARIX360"
+}
